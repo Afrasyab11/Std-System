@@ -1,0 +1,70 @@
+.user-form
+{
+    margin-top: 5rem;
+    margin-left: 10rem;
+    padding-top: 2rem;
+    background-color: aqua;
+    border-radius: 2rem;
+    width: 20rem;
+    height: 25rem;
+    padding-left: 4rem;
+    
+}
+.user-register
+{
+    margin-left: 4rem;
+}
+
+.user-name input
+{
+
+border-radius: 1rem;
+margin-top: 1rem;
+/* border-style: none; */
+border-color: rgb(194, 22, 22);
+height: 1.5rem;
+width: 15rem;
+padding-left: 0.5rem;
+}
+.user-email input
+{
+    margin-top: 1.5rem;
+border-radius: 1rem;
+/* border-style: none; */
+border-color: rgb(194, 22, 22);
+height: 1.5rem;
+width: 15rem;
+padding-left: 0.5rem;
+    
+}
+.user-password input
+{
+    margin-top: 1.5rem;
+border-radius: 1rem;
+/* border-style: none; */
+border-color: rgb(194, 22, 22);
+height: 1.5rem;
+width: 15rem;
+padding-left: 0.5rem;
+}
+
+.user-conformPassword input
+{
+    margin-top: 1.5rem;
+border-radius: 1rem;
+/* border-style: none; */
+border-color: rgb(194, 22, 22);
+height: 1.5rem;
+width: 15rem;
+padding-left: 0.5rem;
+}
+
+button
+{
+    margin-top: 1rem;
+    margin-left: 2.6rem;
+    border-radius: 2rem;
+    width: 10rem;
+    background-color: aqua;
+    height: 2rem;
+}

@@ -1,0 +1,42 @@
+.form
+{
+    margin-top: 10rem;
+   border: 5em;
+   background-color: rgb(187, 107, 107);
+   width: 25rem;
+   margin-left: 5rem;
+   height: 15rem;
+   padding-top: 5rem;
+   border-radius: 2rem;
+    
+}
+
+
+.fname{
+    margin-left: 3rem;
+    
+}
+.Ename
+{
+    margin-left: 2rem;
+}
+.lname
+{
+    margin-left: 3rem;
+}
+.elast
+{
+    margin-left: 2rem;
+}
+.email
+{
+    margin-left: 3rem;
+}
+.Eemail
+{
+    margin-left: 4.3rem;
+}
+.button
+{
+    margin-left: 13rem;
+}

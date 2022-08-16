@@ -1,0 +1,16 @@
+.Create{
+    margin-top: 5rem;
+}
+
+.create
+{
+    background-color: red;
+    text-decoration: none;
+    width: 5rem;
+    border-radius: 1rem;
+    color: white;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin-left: 10rem;
+    padding-bottom: 0.3rem;
+}

@@ -1,0 +1,27 @@
+.btn
+{
+    margin-top: 4rem;
+    margin-left: 2rem;
+    border-radius: 3rem;
+    width: 5rem;
+    background-color: aqua;
+   
+}
+table, th, td {
+  
+  margin-top: 2rem;
+    margin-left: 0.5rem;
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 84.3rem;
+  }
+  .btn-actions button
+  {
+    margin: 0.1rem;
+    background-color: rgb(167, 83, 83);
+    color: white;
+    border-radius: 0.3rem ;
+    border-color: rgb(134, 153, 153);
+    
+ 
+  }
